@@ -1,4 +1,8 @@
-## Regestry
+# How to Install
+
+* Download Zip of this repository to your computer
+
+## Install Regestry
 1. Run &Central Lookup.reg
 2. Verify regestry key was created in C:\Program Files\Internet Explorer\
 
@@ -10,12 +14,10 @@
 4. Add a new DWORD value to the context menu item. Name this new value Contexts.
 5. Set the value of the Contexts value to 0x10. This enables this context menu for selected text only.
 
-## Central Lookup
-
+## Add Central Lookup
 * Move the included centrallookup.htm file into your C:\Program Files\Internet Explorer\ folder.
 
 ## Test
-
 1. Now open up Internet explorer and highlight something you want to search for on Central Lookup.
 2. Right click the highlighted word and select Central Lookup.
 3. Another window should open up with the search in Central Lookup
