@@ -12,11 +12,11 @@
 
 ## Central Lookup
 
-Move the included centrallookup.htm file into your C:\Program Files\Internet Explorer\ folder.
+* Move the included centrallookup.htm file into your C:\Program Files\Internet Explorer\ folder.
 
 ## Test
 
-* Now open up Internet explorer and highlight something you want to search for on Central Lookup.
-* Right click the highlighted word and select Central Lookup.
-* Another window should open up with the search in Central Lookup
+1. Now open up Internet explorer and highlight something you want to search for on Central Lookup.
+2. Right click the highlighted word and select Central Lookup.
+3. Another window should open up with the search in Central Lookup
 
