@@ -1,9 +1,8 @@
 <script language="JavaScript">
   var parentwin = external.menuArguments;
   var doc = parentwin.document;
-  var sel = doc.selection;
-  var rng = sel.createRange();
-  var str = new String(rng.text);
+  var sel = doc.getSelection();
+  var str = new String(sel.text);
 
   if(0 < str.length)
   {
@@ -11,3 +10,4 @@
       + str);
   }
 </script>
+
