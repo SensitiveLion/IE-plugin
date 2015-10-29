@@ -2,12 +2,11 @@
   var parentwin = external.menuArguments;
   var doc = parentwin.document;
   var sel = doc.getSelection();
-  var str = new String(sel.text);
+  var str = new String(sel);
 
   if(0 < str.length)
   {
-    window.open("https://central-lookup.verdasys.com:3000/searches?q="
+    window.open("http://search.live.com/results.aspx?q="
       + str);
   }
 </script>
-
