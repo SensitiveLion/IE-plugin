@@ -1,3 +1,5 @@
+### *You might need IE 11 for this
+
 # How to Install
 
 * Download Zip of this repository to your computer
